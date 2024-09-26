@@ -1,0 +1,1 @@
+增加单元测试, 通过设置环境变量, 读取testdata/input_data.xlsx作为输入, 读取testdata/inventory_data.xlsx作为库存, 执行process_product_data.py, 检查输出文件是否符合预期. 
