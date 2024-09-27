@@ -2,3 +2,4 @@ venv
 .cursorrules
 data
 __pycache__
+ignore
